@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "@db-ui/elements": "^0.17.0",
+    "@db-ui/react-elements": "^0.17.0"
+  }
+}
